@@ -1,4 +1,4 @@
-<img src="Noar 1.png" height="400" style="border-radius:50">
+<img src="profile.png" style="border-radius:50px">
 <p align="center">
 Frontend Developer focused on building scalable web applications
 </p>
@@ -46,17 +46,5 @@ Focused on writing maintainable code and building scalable applications.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tanziqly&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanziqly&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=tanziqly&theme=tokyonight"/>
 </p>
