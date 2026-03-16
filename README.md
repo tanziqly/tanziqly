@@ -1,3 +1,4 @@
+<img src="Noar 1.png" width="150" style="border-radius:50%">
 <p align="center">
 Frontend Developer focused on building scalable web applications
 </p>
